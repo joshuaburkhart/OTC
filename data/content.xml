@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2">
+	<office:scripts/>
+	<office:font-face-decls>
+		<style:font-face style:name="Liberation Sans" svg:font-family="'Liberation Sans'" style:font-family-generic="swiss" style:font-pitch="variable"/>
+		<style:font-face style:name="Arial Unicode MS" svg:font-family="'Arial Unicode MS'" style:font-family-generic="system" style:font-pitch="variable"/>
+		<style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+	</office:font-face-decls>
+	<office:automatic-styles>
+		<style:style style:name="co1" style:family="table-column">
+			<style:table-column-properties fo:break-before="auto" style:column-width="64.01pt"/>
+		</style:style>
+		<style:style style:name="ro1" style:family="table-row">
+			<style:table-row-properties style:row-height="12.81pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
+		</style:style>
+		<style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+			<style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+		</style:style>
+	</office:automatic-styles>
+	<office:body>
+		<office:spreadsheet>
+			<table:calculation-settings table:automatic-find-labels="false"/>
+			<table:table table:name="Sheet1" table:style-name="ta1">
+				<table:table-column table:style-name="co1" table:number-columns-repeated="3" table:default-cell-style-name="Default"/>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111212" calcext:value-type="float">
+						<text:p>111212</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2222" calcext:value-type="float">
+						<text:p>2222</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A1]+[.B1])" office:value-type="float" office:value="113434" calcext:value-type="float">
+						<text:p>113434</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111213" calcext:value-type="float">
+						<text:p>111213</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2223" calcext:value-type="float">
+						<text:p>2223</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A2]+[.B2])" office:value-type="float" office:value="113436" calcext:value-type="float">
+						<text:p>113436</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111214" calcext:value-type="float">
+						<text:p>111214</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2224" calcext:value-type="float">
+						<text:p>2224</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A3]+[.B3])" office:value-type="float" office:value="113438" calcext:value-type="float">
+						<text:p>113438</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111215" calcext:value-type="float">
+						<text:p>111215</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2225" calcext:value-type="float">
+						<text:p>2225</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A4]+[.B4])" office:value-type="float" office:value="113440" calcext:value-type="float">
+						<text:p>113440</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111216" calcext:value-type="float">
+						<text:p>111216</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2226" calcext:value-type="float">
+						<text:p>2226</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A5]+[.B5])" office:value-type="float" office:value="113442" calcext:value-type="float">
+						<text:p>113442</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111217" calcext:value-type="float">
+						<text:p>111217</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2227" calcext:value-type="float">
+						<text:p>2227</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A6]+[.B6])" office:value-type="float" office:value="113444" calcext:value-type="float">
+						<text:p>113444</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111218" calcext:value-type="float">
+						<text:p>111218</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2228" calcext:value-type="float">
+						<text:p>2228</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A7]+[.B7])" office:value-type="float" office:value="113446" calcext:value-type="float">
+						<text:p>113446</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111219" calcext:value-type="float">
+						<text:p>111219</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2229" calcext:value-type="float">
+						<text:p>2229</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A8]+[.B8])" office:value-type="float" office:value="113448" calcext:value-type="float">
+						<text:p>113448</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111220" calcext:value-type="float">
+						<text:p>111220</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2230" calcext:value-type="float">
+						<text:p>2230</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A9]+[.B9])" office:value-type="float" office:value="113450" calcext:value-type="float">
+						<text:p>113450</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111221" calcext:value-type="float">
+						<text:p>111221</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2231" calcext:value-type="float">
+						<text:p>2231</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A10]+[.B10])" office:value-type="float" office:value="113452" calcext:value-type="float">
+						<text:p>113452</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111222" calcext:value-type="float">
+						<text:p>111222</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2232" calcext:value-type="float">
+						<text:p>2232</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A11]+[.B11])" office:value-type="float" office:value="113454" calcext:value-type="float">
+						<text:p>113454</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111223" calcext:value-type="float">
+						<text:p>111223</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2233" calcext:value-type="float">
+						<text:p>2233</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A12]+[.B12])" office:value-type="float" office:value="113456" calcext:value-type="float">
+						<text:p>113456</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111224" calcext:value-type="float">
+						<text:p>111224</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2234" calcext:value-type="float">
+						<text:p>2234</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A13]+[.B13])" office:value-type="float" office:value="113458" calcext:value-type="float">
+						<text:p>113458</text:p>
+					</table:table-cell>
+				</table:table-row>
+				<table:table-row table:style-name="ro1">
+					<table:table-cell office:value-type="float" office:value="111225" calcext:value-type="float">
+						<text:p>111225</text:p>
+					</table:table-cell>
+					<table:table-cell office:value-type="float" office:value="2235" calcext:value-type="float">
+						<text:p>2235</text:p>
+					</table:table-cell>
+					<table:table-cell table:formula="of:=([.A14]+[.B14])" office:value-type="float" office:value="113460" calcext:value-type="float">
+						<text:p>113460</text:p>
+					</table:table-cell>
+				</table:table-row>
+			</table:table>
+			<table:named-expressions/>
+		</office:spreadsheet>
+	</office:body>
+</office:document-content>
